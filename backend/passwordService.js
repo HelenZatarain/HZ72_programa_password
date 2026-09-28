@@ -1,10 +1,13 @@
 import { randomInt } from "node:crypto";
 
 const COMMON_PASSWORDS = new Set([
+  "123",
+  "1234",
+  "12345",
   "123456",
   "123456789",
   "password",
-  "qwerty",
+  "gato",
   "12345678",
   "abc123",
   "password1",
@@ -13,9 +16,9 @@ const COMMON_PASSWORDS = new Set([
   "letmein",
   "iloveyou",
   "monkey",
-  "dragon",
-  "football",
-  "sunshine",
+  "contraseña",
+  "perro",
+  "hola",
 ]);
 
 const LEET = {

@@ -154,7 +154,7 @@ function Validator() {
             01
           </span>
 
-          <h2>Password Validator</h2>
+          <h2>Validador de contraseñas</h2>
 
           <p>
             Construye una contraseña y observa cómo
@@ -384,7 +384,7 @@ function Generator() {
             02
           </span>
 
-          <h2>Password Generator</h2>
+          <h2>Generador de contraseñas</h2>
 
           <p>
             Introduce una frase y crea tres
